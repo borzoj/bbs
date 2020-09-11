@@ -1,5 +1,5 @@
 {
-  "name": "balance-brackets",
+  "name": "balance-brackets.",
   "version": "1.0.0",
   "description": "Content: *   [Problem description](#problem-description) *   [Objective](#objective) *   [Examples](#examples) *   [Rules](#rules)",
   "main": "balance-brackets.js",
